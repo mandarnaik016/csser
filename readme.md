@@ -2,7 +2,7 @@
 
 CSSER Is A Optimization Tool Which Is Used To Compress/Minify A Stylesheet/CSS File By Removing Useless White Spaces And Line Breaks With No Possible Side-Effect On The Code.
 
-Check Out The [PARSER](https://mandarnaik016.github.io/csser/index.html)!
+Check Out The [CSSER](https://mandarnaik016.github.io/csser/index.html)!
 
 ### Show Some :heart:
 
