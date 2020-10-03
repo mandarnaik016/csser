@@ -12,7 +12,7 @@ Check Out The [CSSER](https://mandarnaik016.github.io/csser/index.html)!
 
 ## Website Screenshots
 
-![screenshot](assets/img/csser-css-minifier.png)
+![screenshot](https://mandarnaik016.github.io/csser/assets/img/csser-css-minifier.png)
 
 ## Author & Support
 
